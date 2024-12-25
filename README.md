@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/Enumerations-and-Exceptions/workflows/Python%20Application/badge.svg?label=passingcolor=greentimestamp=1735110938)
+
 
 # Enumerations & Exceptions
 
